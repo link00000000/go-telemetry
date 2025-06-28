@@ -8,7 +8,7 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/link00000000/telemetry/logging/ansi"
+	"github.com/link00000000/go-telemetry/logging/ansi"
 	"golang.org/x/term"
 )
 
